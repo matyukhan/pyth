@@ -1,0 +1,16 @@
+## this is a heading
+
+~Мы тут плюшками балуемся~
+
+<div class="alert alert-block alert-danger">
+Настроение безудержное, мои любимые девочки 
+</div>
+
+я подчеркнут серым
+***
+и я
+***
+и я 
+***
+
+[arbitrary case-insensitive reference text]: https://www.mozilla.org
